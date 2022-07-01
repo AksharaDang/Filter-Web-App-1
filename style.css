@@ -1,0 +1,13 @@
+.btn-info{
+    font-size: 25px !important;
+}
+
+.btn-success:hover{
+background-color: red;
+}
+
+canvas{
+    animation-name: animation;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
